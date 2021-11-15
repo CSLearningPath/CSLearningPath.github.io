@@ -79,7 +79,7 @@ theme: hexo-theme-book
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:learn-sys/learn-sys.github.io
+  repo: git@github.com:CSLearningPath/CSLearningPath.github.io.git
   branch: gh-pages
 
 markdown:
