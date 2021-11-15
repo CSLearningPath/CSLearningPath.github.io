@@ -14,7 +14,7 @@ timezone:
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://CSLearningPath.github.io/
-root: /
+root: /hexo-theme-book-demo/
 permalink: :title/
 permalink_defaults:
 
